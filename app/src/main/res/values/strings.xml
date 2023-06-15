@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">View Binding</string>
+    <string name="sign_up">sign up</string>
+    <string name="enter_your_name">Enter your name</string>
+    <string name="enter_you_mail">Enter you mail</string>
+    <string name="i_agree_to_all_t_amp_c"><![CDATA[I agree to all T&C]]></string>
+</resources>
